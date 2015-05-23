@@ -1,5 +1,4 @@
 ## Programming Assignment 2
-#ver2
 
 ## Function contains a list of four functions that:
 ## - cretaes initital matrix
